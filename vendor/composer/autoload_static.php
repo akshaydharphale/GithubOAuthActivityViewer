@@ -195,6 +195,17 @@ class ComposerStaticInitbdff5614a5040c9bc96440c34031e35c
                 0 => __DIR__ . '/..' . '/sensiolabs/security-checker',
             ),
         ),
+        'O' => 
+        array (
+            'OAuth\\Unit' => 
+            array (
+                0 => __DIR__ . '/..' . '/lusitanian/oauth/tests',
+            ),
+            'OAuth' => 
+            array (
+                0 => __DIR__ . '/..' . '/lusitanian/oauth/src',
+            ),
+        ),
         'D' => 
         array (
             'Doctrine\\ORM\\' => 
